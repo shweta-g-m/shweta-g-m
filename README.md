@@ -26,11 +26,12 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shweta-g-m&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 
-![](https://nirzak-streak-stats.vercel.app/?user=shweta-g-m&theme=tokyonight&hide_border=false)
+![Shweta's GitHub stats](https://github-readme-stats.vercel.app/api?username=shweta-g-m&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shweta-g-m&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=shweta-g-m&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shweta-g-m&layout=compact&theme=tokyonight)
 
 ---
 
