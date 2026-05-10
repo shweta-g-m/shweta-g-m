@@ -7,9 +7,9 @@
 ---
 
 # 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shweta_g_m)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shweta-mallannavar-5081b334a/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mallannavarshweta@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shweta_g_m)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shweta-mallannavar-5081b334a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mallannavarshweta@gmail.com)
 
 ---
 
@@ -25,15 +25,9 @@
 
 ---
 
-# 📊 GitHub Stats:
+# 📊 GitHub Streak:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shweta-g-m&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shweta-g-m&theme=tokyonight&hide_border=true" />
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shweta-g-m&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -49,4 +43,4 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=shweta-g-m&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=shweta-g-m&icon=0&color=0)
