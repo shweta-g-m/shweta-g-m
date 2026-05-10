@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Full Stack & Java Developer  
+💻 Tech Enthusiast   
 📘 Problem Solving & Software Engineering  
 🧠 Exploring AI & Scalable Applications  
 🚀 Aspiring Software Engineer  
